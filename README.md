@@ -16,11 +16,16 @@ Hello! I'm Marianne G. Lagan, a senior BS Geodetic Engineering student at the Un
 ### Projects
 Here, I showcase a range of projects that demonstrate my skills and passion in Spatial Data Science:
 - **[Building Densities Calculation using OpenStreetMap and GeoPandas]**:
-  - This script demonstrates the basic functionalities of GeoPandas by working with OpenStreetMap data. It extracts key features such as administrative boundaries, buildings, and roads, creates visualizations using Matplotlib, and calculates the building density for a selected region.
+  - This project demonstrates the basic functionalities of GeoPandas by working with OpenStreetMap data. It extracts key features such as administrative boundaries, buildings, and roads, creates visualizations using Matplotlib, and calculates the building density for a selected region.
   - [Link](#).
   
 - **[Spatial Regression Analysis]**:
-  - This script explores spatial regression using TripAdvisor data from Metro Manila to analyze factors influencing vacation rental prices. It investigates linear relationships between attributes, creates spatial weights with the pysal library, examines spatial autocorrelation using Moran's I, and performs Ordinary Least Squares (OLS) and spatial regression modeling.
+  - This project explores spatial regression using TripAdvisor data from Metro Manila to analyze factors influencing vacation rental prices. It investigates linear relationships between attributes, creates spatial weights with the pysal library, examines spatial autocorrelation using Moran's I, and performs Ordinary Least Squares (OLS) and spatial regression modeling.
+  - [Link](#).
+
+- **[Urban Mobility]**:
+  -  A collaboration work with my Spatial Data Science and Engineering coursemates.
+  - This project evaluates the impact of recent railway expansions on public transit accessibility in Metro Manila. Using isochrone maps, it compares accessibility before and after new stations and overlays data with population density to determine the service level within the metro and identify areas needing further transit improvements. The project aligns with SDG 11: Sustainable Cities and Communities.
   - [Link](#).
 
 - *(To be updated as I continue building my portfolio)*
