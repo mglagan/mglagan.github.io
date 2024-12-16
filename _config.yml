@@ -1,5 +1,36 @@
 title: Marianne Lagan
-show_downloads: true
+description: "Geodetic Engineering Student | Spatial Data Science and Engineering Enthusiast"
+email: laganmg23@gmail.com
+url: "https://github.com/mglagan/mglagan.github.io" 
+
+#Theme
 remote_theme: pages-themes/midnight@v0.2.0
+show_downloads: true
+
+# Navigation menu (Optional)
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Contact"
+    url: "/contact"
+
+# Social Media Links
+social_links:
+  github: "https://github.com/mglagan"
+  linkedin: "https://linkedin.com/in/your-username"
+
+# Plugins
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+# About section
+about:
+  title: "About Me"
+  content: "Hello! I'm Marianne G. Lagan, a senior BS Geodetic Engineering student at the University of the Philippines Diliman. My academic journey has sparked in me a strong passion for Spatial Data Science and Geographic Information Systems (GIS) so I’m excited about using these fields to tackle real-world challenges, especially in areas like urban planning and environmental management."
+# Permalinks
+permalink: pretty
+
