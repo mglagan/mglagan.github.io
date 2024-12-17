@@ -1,7 +1,7 @@
 # Spatial Data Science Portfolio
 Welcome to my Spatial Data Science Portfolio!
 
-Visit my Spatial Data Science Website in this [Link](https://mglagan.github.io/)
+Visit my Spatial Data Science website through this [Link](https://mglagan.github.io/).
 
 ### About Me
 Hello! I'm Marianne G. Lagan, a senior BS Geodetic Engineering student at the University of the Philippines Diliman. My academic journey has sparked in me a strong passion for Spatial Data Science and Geographic Information Systems (GIS) so I’m excited about using these fields to tackle real-world challenges, especially in areas like urban planning and environmental management.
